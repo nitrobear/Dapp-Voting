@@ -9,8 +9,7 @@ Une vidéo de présentation du dfonctionnement de la Dapp se trouve à cette adr
 
 # Dapp sur GitHub pages
 
-La Dapp se trouve aussi en ligne sur GitHub Pages à l'url : 
-
+La Dapp se trouve aussi en ligne sur GitHub Pages à l'url : https://nitrobear.github.io/Dapp-Voting/
 
 # Structure de l'application
 

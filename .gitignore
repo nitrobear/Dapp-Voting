@@ -3,3 +3,4 @@ node_modules
 
 truffle/.env
 truffle/node_modules
+client/build
