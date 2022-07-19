@@ -1,0 +1,15 @@
+.adminpanel{
+    text-align: right;
+    border-top: 3px solid rgb(82, 29, 139);
+    background-color: #d8dfe9;
+    padding: 5px;
+}
+#voterAddress {
+    float: left;
+    padding: 5px;
+    margin-right: 0px;
+    width: 450px;
+}
+#voterButton {
+    float: left;
+}

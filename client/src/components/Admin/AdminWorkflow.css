@@ -1,0 +1,7 @@
+.breadcrumb-item {
+    font-size: 0.9rem;
+}
+.breadcrumb .active {
+    color: #000;
+    font-weight: bold;
+}

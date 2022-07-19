@@ -1,0 +1,10 @@
+.header{
+    text-align: right;
+    border-bottom: 3px solid rgb(82, 29, 139);
+    background-color: #d8dfe9;
+    padding: 5px;
+}
+#logo {
+    float: left;
+    display: block;
+}
